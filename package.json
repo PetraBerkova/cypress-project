@@ -1,0 +1,16 @@
+{
+  "name": "cypress1",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "cypress open --e2e"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "cypress": "^15.9.0",
+    "cypress-xpath": "^2.0.1",
+    "typescript": "^5.9.3"
+  }
+}
